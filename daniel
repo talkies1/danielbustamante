@@ -6,8 +6,8 @@
       "direccion": "Los tilos, #239",
       "fono": 961671889,
       "correo":"daniel.bustamante27@inacapmail.cl",
-      "montoCredito": 500000,
-      "deuda":15000,
-      "tipo": 1
+      "tipo": 500000,
+      "montoCredito":15000,
+      "deuda": 1
     }
 ]
